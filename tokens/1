@@ -1,29 +1,17 @@
 {
   "id": 1,
-  "image": "https://zacharycouchman.github.io/nft-project-metadata-immutable/tokens/token1.webp",
+  "image": "https://zacharycouchman.github.io/bb-example-metadata/tokens/Wil_BBH_HeroIcon_1.webp",
   "token_id": "1",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Jeffrey",
-  "description": "Owl",
+  "name": "Wil Skin",
+  "description": "Skin for Wil character",
   "external_url": null,
   "attributes": [
     {
-      "trait_type": "Eyesight",
+      "trait_type": "Power",
       "value": 10
-    },
-    {
-      "trait_type": "Flying",
-      "value": 8
-    },
-    {
-      "trait_type": "Nocturnal",
-      "value": true
-    },
-    {
-      "trait_type": "Peck",
-      "value": 5
     }
   ]
 }

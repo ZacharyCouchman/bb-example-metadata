@@ -1,29 +1,17 @@
 {
   "id": 3,
-  "image": "https://zacharycouchman.github.io/nft-project-metadata-immutable/tokens/token3.webp",
+  "image": "https://zacharycouchman.github.io/bb-example-metadata/tokens/Riggs_BBH_HeroIcon_1.webp",
   "token_id": "3",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Gary",
-  "description": "Eagle",
+  "name": "Riggs Skin",
+  "description": "Skin for Riggs character",
   "external_url": null,
   "attributes": [
     {
-      "trait_type": "Eyesight",
-      "value": 10
-    },
-    {
-      "trait_type": "Flying",
-      "value": 10
-    },
-    {
-      "trait_type": "Nocturnal",
-      "value": false
-    },
-    {
-      "trait_type": "Peck",
-      "value": 7
+      "trait_type": "Power",
+      "value": 14
     }
   ]
 }

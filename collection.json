@@ -1,6 +1,6 @@
 {
-    "name": "CryptoBirds",
-    "description": "An Immutable zkEVM native collection of based CryptoBirds.",
-    "image": "https://zacharycouchman.github.io/nft-project-metadata-immutable/cryptobirds.webp",
+    "name": "BB Example",
+    "description": "BB Example Collection.",
+    "image": "https://zacharycouchman.github.io/bb-example-metadata/bbexample.webp",
     "external_link": "https://immutable.com"
 }

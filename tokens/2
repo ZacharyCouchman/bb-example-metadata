@@ -1,28 +1,16 @@
 {
   "id": 2,
-  "image": "https://zacharycouchman.github.io/nft-project-metadata-immutable/tokens/token2.webp",
+  "image": "https://zacharycouchman.github.io/bb-example-metadata/tokens/Oliver_BBH_HeroIcon_1.avif",
   "token_id": "2",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Mike",
-  "description": "Rooster",
+  "name": "Oliver Skin",
+  "description": "Skin for Oliver character",
   "external_url": null,
   "attributes": [
     {
-      "trait_type": "Eyesight",
-      "value": 4
-    },
-    {
-      "trait_type": "Flying",
-      "value": 2
-    },
-    {
-      "trait_type": "Nocturnal",
-      "value": false
-    },
-    {
-      "trait_type": "Peck",
+      "trait_type": "Power",
       "value": 10
     }
   ]
