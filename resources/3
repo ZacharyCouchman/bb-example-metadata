@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "image": "https://zacharycouchman.github.io/bb-example-metadata/resources/GasResourceBig.png",
+  "token_id": "3",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Gas Can Pro",
+  "description": "Gas resource for BB",
+  "external_url": null,
+  "attributes": []
+}
